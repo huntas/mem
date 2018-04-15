@@ -1,0 +1,13 @@
+img{
+  height: 359px;
+  border: 6px dashed green;
+  margin: 10px;
+  transition: 1s;
+
+}
+img:hover{
+ transform:rotate(360deg);
+}
+body{
+  background:url("http://liubavyshka.ru/_ph/4/2/415083084.jpg?1484298137")
+}
